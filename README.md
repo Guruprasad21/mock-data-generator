@@ -1,6 +1,6 @@
 # Mock Data Generator
 
-A simple Python Project that generates data from Mockaroo, transforms it using Spark and dumps it into the Staging area. 
+A simple Python Project that generates data from Mockaroo, transforms it using Spark and stores it into the Staging area. 
 
 ### Mockaroo
 Mockaroo is a free tool that helps us generate Mock Data for Analytical purposes. We can define the Schema (Fields, Datatypes) and logic to generate the dummy data. It also provides endpoint using which we can fetch the data in JSON, CSV and other formats.
